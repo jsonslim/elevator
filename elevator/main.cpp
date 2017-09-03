@@ -45,7 +45,7 @@ void elevator::direction_cabin(int n)
 
 }
 
-void elevator::floor()      //git comm
+void elevator::floor()      //git comm,  and 2 comm
 {
     cout << "Enter quantity of floors in the house" << endl;
     cin >> floors_count;
